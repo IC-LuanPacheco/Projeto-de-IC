@@ -1,0 +1,16 @@
+[StartTime]
+Transdutor_meio_V3-Estresse_Deslocamento_Deformação.MFC=6s
+[SolverState]
+Transdutor_meio_V3-Estresse_Deslocamento_Deformação.MFC=2
+[MainFrame]
+Transdutor_meio_V3-Estresse_Deslocamento_Deformação.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+Transdutor_meio_V3-Estresse_Deslocamento_Deformação.MFC=No
+[SolverType]
+Transdutor_meio_V3-Estresse_Deslocamento_Deformação.MFC=Linear Analysis
+[StudyType]
+Transdutor_meio_V3-Estresse_Deslocamento_Deformação.MFC=0
+[StudyName]
+Transdutor_meio_V3-Estresse_Deslocamento_Deformação.MFC=Estresse_Deslocamento_Deformação
+[Solver]
+Transdutor_meio_V3-Estresse_Deslocamento_Deformação.MFC=Sparse
