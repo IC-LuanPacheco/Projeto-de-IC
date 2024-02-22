@@ -1,0 +1,16 @@
+Added Component: Designator=P2(Via_Conect)
+Added Component: Designator=P3(Via_Conect)
+Added Component: Designator=P4(Via_Conect)
+Added Component: Designator=P5(Via_Conect)
+Added Component: Designator=P6(Via_Conect)
+Added Component: Designator=P7(Via_Conect)
+Added Component: Designator=P8(Via_Conect)
+Added Component: Designator=P9(Via_Conect)
+Added Component: Designator=P10(Via_Conect)
+Added Component: Designator=P11(Via_Conect)
+Added Component: Designator=P12(Via_Conect)
+Added Component: Designator=P13(Via_Conect)
+Added Net: Name=Net_1-2
+Added Net: Name=Net_3-4
+Added Class: Name=Nets_Acelerometro
+Added Room: Name=Nets_Acelerometro

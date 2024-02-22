@@ -1,0 +1,19 @@
+|RECORD=BOM|VERSION=2|FILENAME=C:\source\Altium\Acelerometro_Experimento\PCB_Project\BOM_PCB_Project.BomDoc|KIND=ALTIUM_DESIGNER_LIVEBOM|DATE=22.02.2024|TIME=15:48:18|CURRENCY=USD|PRODUCTIONQUANTITY=1|PERUNITTARGETPRICE=0|PERUNITACTUALPRICE=0
+|RECORD=GeneralOptions|OPENEXPORTED=False|ADDTOPROJECT=False|FORCEFIT=False|NOTFITTED=False|TEMPLATEFILENAME=|BATCHMODE=0|SUPPLIERPRODQTY=0|SUPPLIERAUTOQTY=False|SUPPLIERUSECACHEDPRICING=False|SUPPLIERCURRENCY=|SOLUTIONSPERITEM=1|SUPPLIERSPERSOLUTION=1|DISPLAYTOTALROW=False|DISPLAYSUBTOTALSFORGROUPS=False|INCLUDEPCBPARAMETERS=False|INCLUDEDBPARAMETERS=False|INCLUDEVAULTPARAMETERS=False|INCLUDECLOUDPARAMETERS=False|INCLUDEDOCUMENTPARAMETERS=False|FILTEROUTRISKYSOLUTIONS=True|DESIGNATORGROUPING=No
+|RECORD=SortOrderOptions|SORTORDER=
+|RECORD=GroupOrderOptions|GROUPORDER=
+|RECORD=VisibleOrderOptions|VISIBLEORDER=Line #=53!Comment=147!Description=79!Designator=77!Quantity=67!Manufacturer 1=99!Manufacturer Part Number 1=166!Manufacturer Lifecycle 1=143!Supplier 1=72!Supplier Part Number 1=139!Supplier Unit Price 1=123!Supplier Subtotal 1=116
+|RECORD=VisibleOrderOptions2|BASEVIEW=Line #=53!Comment=147!Description=79!Designator=77!Quantity=67!Manufacturer 1=99!Manufacturer Part Number 1=166!Manufacturer Lifecycle 1=143!Supplier 1=72!Supplier Part Number 1=139!Supplier Unit Price 1=123!Supplier Subtotal 1=116|FLATVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Manufacturer 1=99!Manufacturer Part Number 1=166!Manufacturer Lifecycle 1=143!Supplier 1=72!Supplier Part Number 1=139!Supplier Unit Price 1=123!Supplier Subtotal 1=116|CONSOLIDATEDVIEW=Line #=53!Comment=147!Description=79!Designator=77!Quantity=67!Manufacturer 1=99!Manufacturer Part Number 1=166!Manufacturer Lifecycle 1=143!Supplier 1=72!Supplier Part Number 1=139!Supplier Unit Price 1=123!Supplier Subtotal 1=116
+|RECORD=CustomColumns|CUSTOMCOLUMNS=
+|RECORD=ColumnsAliases|COLUMNSALIASES=Comment=Name
+|RECORD=FilterOptions|FILTER=
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Description=0,Value=0,Footprint=1
+|RECORD=ManufacturerLinkOptions|MANUFACTURERLINKPARAMETERS=
+|RECORD=FavoriteSuppliers|PARTSOURCES=|SUPPLIERS=|USESUPPLIERORDER=False
+|RECORD=CheckOptions|CHECKLEVELS=
+|RECORD=LineNumberingOptions|STARTVALUE=|INCREMENT=
+|RECORD=Catalog|DBLINKFILEPATH=
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Biblioteca_Squematico.SchLib\Pin_Duplo|DESIGNITEMID=Pin_Duplo|ITEMSOURCE=Biblioteca_Squematico.SchLib|STATUS=Unknown|DESCRIPTION=|USERCOMMENTS=Pino de saida de dados|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=,"Pino de saida de dados"|COMPONENTPARAMETERS="Comment=Pino de saida de dados","Component Kind=Standard",Description=,Footprint=SAIDA_DADOS,"Ibis Model=","Library Name=Biblioteca_Squematico.SchLib","Library Reference=Pin_Duplo",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Biblioteca_Squematico.SchLib\Pin_Conect|DESIGNITEMID=Pin_Conect|ITEMSOURCE=Biblioteca_Squematico.SchLib|STATUS=Unknown|DESCRIPTION=|USERCOMMENTS=Via para conectar|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=,"Via para conectar"|COMPONENTPARAMETERS="Comment=Via para conectar","Component Kind=Standard",Description=,Footprint=Via_Conect,"Ibis Model=","Library Name=Biblioteca_Squematico.SchLib","Library Reference=Pin_Conect",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
