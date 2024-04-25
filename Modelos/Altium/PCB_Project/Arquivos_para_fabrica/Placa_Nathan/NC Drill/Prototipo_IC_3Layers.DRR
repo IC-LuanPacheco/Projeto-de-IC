@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Prototipo_IC_3Layers.PcbDoc   12/04/2024  17:56:46
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Prototipo_IC_3Layers.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.5mm (20mil)                                             Round             138       PTH        855.58mm (33.68inch)
+T2      0.7mm (28mil)                                             Round             20        PTH        33.02mm (1.30inch)
+T3      1mm (39mil)                                               Round             20        PTH        48.26mm (1.90inch)
+T4      1.27mm (50mil)                                            Round             9         PTH        22.55mm (0.89inch)
+T5      1.3mm (51mil)                                             Round             6         PTH        31.80mm (1.25inch)
+T6      3.302mm (130mil)                                          Round             2         PTH        24.99mm (0.98inch)
+T7      3.5mm (138mil)                                            Round             6         NPTH       324.51mm (12.78inch)
+T8      4mm (157mil)                                              Round             2         NPTH       13.49mm (0.53inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              203
+
+Total Processing Time (hh:mm:ss) : 00:00:00

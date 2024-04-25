@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Project.PrjPcb]
+   Generated File[Tampa_Alinhada.GTO]
+   Generated File[Tampa_Alinhada.GTS]
+   Generated File[Tampa_Alinhada.GTL]
+   Generated File[Tampa_Alinhada.GBL]
+   Generated File[Tampa_Alinhada.GBS]
+   Generated File[Tampa_Alinhada.GBO]
+   Generated File[Tampa_Alinhada.GM1]
+   Generated File[Tampa_Alinhada.RUL]
+   Generated File[Tampa_Alinhada.EXTREP]
+   Generated File[Tampa_Alinhada.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 19:32:48 On 24/04/2024

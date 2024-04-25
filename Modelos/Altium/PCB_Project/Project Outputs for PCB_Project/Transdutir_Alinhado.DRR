@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Transdutir_Alinhado.PcbDoc   01/04/2024  18:39:55
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer 1 to Bottom Layer 1
+ASCII RoundHoles File : Transdutir_Alinhado-RoundHoles.TXT
+ASCII SlotHoles File : Transdutir_Alinhado-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Slot              48        PTH        3.16inch (80.29mm)
+T2      28mil (0.711mm)                                           Round             10        PTH        4.69inch (119.17mm)
+T3      39mil (1mm)                                               Round             10        PTH        6.92inch (175.72mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              68
+
+Total Processing Time (hh:mm:ss) : 00:00:01
