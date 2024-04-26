@@ -1,0 +1,2 @@
+O arquivo "Differential capacitive sensing circuit for a multi-electrode capacitive force sensor"
+é o principal dentre estes. Deve-se ser dado um foco maior na leitura e no entendimento deste.
